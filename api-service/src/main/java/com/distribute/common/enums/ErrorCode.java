@@ -5,7 +5,7 @@ package com.distribute.common.enums;
  */
 public enum ErrorCode {
 
-	SUCCESS("000000", "操作成功"),
+		SUCCESS("000000", "操作成功"),
 	FAILED("999999","操作失败"),
 	ParamError("000001", "参数错误！"),
 
